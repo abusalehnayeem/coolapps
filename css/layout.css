@@ -1,0 +1,17 @@
+/* CSS Document */
+@import url(reset.css);
+#content-wrapper
+{
+    width: 600px;
+    height: 600px;
+}
+.error
+{
+    height: 50px;
+    border: 1px solid red;
+    background-color: #B7B7B7;
+}
+.error p
+{
+    font: 14px/50px serif normal;
+}
